@@ -1,7 +1,4 @@
-<svelte:head>
-	<title>About</title>
-</svelte:head>
+<form name="form" netlify>
 
-<h1>About this site</h1>
-
-<p>This is the 'about' page. There's not much here.</p>
+    <input type="email">
+</form>
